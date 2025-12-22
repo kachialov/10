@@ -4,4 +4,6 @@
 
 [Основы программирования](https://gamma.app/docs/10-Programavimo-pagrindai-2mz120i7dwki4ir)
 
-👉 [Среда разработки программного обеспечения](https://gamma.app/docs/10-Programavimo-aplinka-1zteet9r8lf6l13)
+[Среда разработки программного обеспечения](https://gamma.app/docs/10-Programavimo-aplinka-1zteet9r8lf6l13)
+
+👉 [Первые программы](https://gamma.app/docs/10-Pirmosios-Python-programos-kurimas-wm9pkrh53cd3qp6)
