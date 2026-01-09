@@ -1,5 +1,7 @@
 # 10
 
+👉 [Stebėsenos duomenų rinkimas](https://survey.synopticom.com/w/index.php/768986?lang=lt&P01=88&P04=5)
+
 [Sign up on Gamma](https://gamma.app/signup?r=nhtbr10qcbgj2ky) + 200 credits
 
 [Основы программирования](https://gamma.app/docs/10-Programavimo-pagrindai-2mz120i7dwki4ir)
