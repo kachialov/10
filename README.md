@@ -8,4 +8,6 @@
 
 [Среда разработки программного обеспечения](https://gamma.app/docs/10-Programavimo-aplinka-1zteet9r8lf6l13)
 
-👉 [Первые программы](https://gamma.app/docs/10-Pirmosios-Python-programos-kurimas-wm9pkrh53cd3qp6)
+[Первые программы](https://gamma.app/docs/10-Pirmosios-Python-programos-kurimas-wm9pkrh53cd3qp6)
+
+👉 [Системы счисления](https://gamma.app/docs/10-Skaiciavimo-sistemos-h7u6br60y3vu2xb)
