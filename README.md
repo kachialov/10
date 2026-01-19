@@ -1,6 +1,6 @@
 # 10
 
-👉 [Stebėsenos duomenų rinkimas](https://survey.synopticom.com/w/index.php/768986?lang=lt&P01=88&P04=5)
+[Stebėsenos duomenų rinkimas](https://survey.synopticom.com/w/index.php/768986?lang=lt&P01=88&P04=5)
 
 [Sign up on Gamma](https://gamma.app/signup?r=nhtbr10qcbgj2ky) + 200 credits
 
