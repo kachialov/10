@@ -13,3 +13,5 @@
 [Системы счисления](https://gamma.app/docs/10-Skaiciavimo-sistemos-h7u6br60y3vu2xb)
 
 👉 [Языки программирования высокого и низкого уровня](https://gamma.app/docs/9-23--ly0h20qp8m8m98d)
+
+[26. Выбор алгоритма: целые и действительные числа](https://gamma.app/docs/10-26-RU-sveikieji-ir-realieji-skaiciai-v0xx4ba5srwzj0c)
