@@ -1,6 +1,6 @@
 # 10
 
-[Stebėsenos duomenų rinkimas](https://survey.synopticom.com/w/index.php/768986?lang=lt&P01=88&P04=5)
+📝 [Apklausa dėl patyčių (1-2 klasės)](https://forms.gle/kSzX3kmr7B6bNawK8)
 
 [Sign up on Gamma](https://gamma.app/signup?r=nhtbr10qcbgj2ky) + 200 credits
 
@@ -14,4 +14,6 @@
 
 [Языки программирования высокого и низкого уровня](https://gamma.app/docs/9-23--ly0h20qp8m8m98d)
 
-👉 [Выбор алгоритма: целые и действительные числа](https://gamma.app/docs/10-26-RU-sveikieji-ir-realieji-skaiciai-v0xx4ba5srwzj0c)
+[Выбор алгоритма: целые и действительные числа](https://gamma.app/docs/10-26-RU-sveikieji-ir-realieji-skaiciai-v0xx4ba5srwzj0c)
+
+👉 [Процедуры, Функции и Рекурсия](https://gamma.app/docs/10-09--mfhllk4p8o9tz8j)
