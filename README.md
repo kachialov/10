@@ -16,4 +16,6 @@
 
 [Выбор алгоритма: целые и действительные числа](https://gamma.app/docs/10-26-RU-sveikieji-ir-realieji-skaiciai-v0xx4ba5srwzj0c)
 
-👉 [Процедуры, Функции и Рекурсия](https://gamma.app/docs/10-09--mfhllk4p8o9tz8j)
+[Процедуры, Функции и Рекурсия](https://gamma.app/docs/10-09--mfhllk4p8o9tz8j)
+
+👉 [Компьютернoe издание. ПРОЕКТ "Моя электронная книга"](https://gamma.app/docs/10-11-Kompiuterine-leidyba-o1xk2qbiwhwljva)
